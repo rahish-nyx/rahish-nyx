@@ -34,12 +34,20 @@ As the **Founder &amp; Lead Architect of [ByteBreach Academy](https://bytebreach
 
 ## 🎯 Core Competencies & Specializations
 
-<div align="center">
+| 🔐 Cyber Defense & Offense | 🌐 Network & Infrastructure |
+| :--- | :--- |
+| 🛡️ **Certified Ethical Hacker (CEH)** | 🔀 **Enterprise Routing & Switching** |
+| 🎯 Web & Network Penetration Testing | 📐 IPv4 / IPv6 VLSM Subnetting Architecture |
+| 🚩 Vulnerability Assessment & CTF Operations | 🌐 OSPFv2/v3, EIGRP, BGP, STP, VLANs |
+| 🔑 Active Directory & Kerberos Security | 🔍 Packet Forensics & Deep Packet Inspection (Wireshark) |
+| 🐧 Linux Hardening & System Auditing | ⚡ Cisco IOS CLI Configuration & Network Automation |
 
-┌───────────────────────────────────────┬───────────────────────────────────────┐ │ 🔐 CYBER DEFENSE & OFFENSE │ 🌐 NETWORK & INFRASTRUCTURE │ ├───────────────────────────────────────┼───────────────────────────────────────┤ │ • Certified Ethical Hacker (CEH) │ • Enterprise Routing & Switching │ │ • Web & Network Penetration Testing │ • IPv4 / IPv6 VLSM Subnetting Arch │ │ • Vulnerability Assessment & CTF Ops │ • OSPFv2/v3, EIGRP, BGP, STP, VLANs │ │ • Active Directory & Kerberos Security│ • Packet Forensics (Wireshark PCAPs) │ │ • Linux Hardening & System Auditing │ • Cisco IOS CLI Config & Automation │ ├───────────────────────────────────────┼───────────────────────────────────────┤ │ 💻 FULL-STACK & SYSTEMS │ 📱 HYBRID MOBILE ARCHITECTURE │ ├───────────────────────────────────────┼───────────────────────────────────────┤ │ • Polyglot: C, C++, Python, Java, JS │ • Native Android Container Bridging │ │ • Modern Web: Next.js 16, React 19 │ • Hardware-Accelerated WebViews │ │ • Backend: Node.js, Express, REST APIs│ • Viewport Inset & Gesture Adaptation │ │ • NoSQL Databases: MongoDB, Firestore │ • 0ms Offline-First Cache Pipeline │ └───────────────────────────────────────┴───────────────────────────────────────┘
-
-
-</div>
+| 💻 Full-Stack & Systems Engineering | 📱 Hybrid Mobile & Offline Architecture |
+| :--- | :--- |
+| ⚡ **Polyglot Developer**: C, C++, Python, Java, JS/TS | 📱 **Native Android Container Bridging** |
+| ⚛️ Modern Web: Next.js 16 (Turbopack), React 19, Tailwind | 🚀 Hardware-Accelerated Mobile WebViews |
+| 🟢 Backend: Node.js, Express, RESTful Edge APIs | 📐 Viewport Safe-Area & Gesture Adaptation |
+| 🗄️ Databases: MongoDB, Cloud Firestore | ⚡ 0ms Offline-First Synchronous Cache Pipeline |
 
 ---
 
