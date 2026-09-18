@@ -36,24 +36,8 @@ As the **Founder &amp; Lead Architect of [ByteBreach Academy](https://bytebreach
 
 <div align="center">
 
-```
-┌───────────────────────────────────────┬───────────────────────────────────────┐
-│     🔐 CYBER DEFENSE & OFFENSE        │     🌐 NETWORK & INFRASTRUCTURE       │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│ • Certified Ethical Hacker (CEH)      │ • Enterprise Routing & Switching      │
-│ • Web & Network Penetration Testing   │ • IPv4 / IPv6 VLSM Subnetting Arch    │
-│ • Vulnerability Assessment & CTF Ops  │ • OSPFv2/v3, EIGRP, BGP, STP, VLANs  │
-│ • Active Directory & Kerberos Security│ • Packet Forensics (Wireshark PCAPs) │
-│ • Linux Hardening & System Auditing   │ • Cisco IOS CLI Config & Automation  │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│     💻 FULL-STACK & SYSTEMS           │     📱 HYBRID MOBILE ARCHITECTURE     │
-├───────────────────────────────────────┼───────────────────────────────────────┤
-│ • Polyglot: C, C++, Python, Java, JS  │ • Native Android Container Bridging   │
-│ • Modern Web: Next.js 16, React 19    │ • Hardware-Accelerated WebViews       │
-│ • Backend: Node.js, Express, REST APIs│ • Viewport Inset & Gesture Adaptation │
-│ • NoSQL Databases: MongoDB, Firestore │ • 0ms Offline-First Cache Pipeline    │
-└───────────────────────────────────────┴───────────────────────────────────────┘
-```
+┌───────────────────────────────────────┬───────────────────────────────────────┐ │ 🔐 CYBER DEFENSE & OFFENSE │ 🌐 NETWORK & INFRASTRUCTURE │ ├───────────────────────────────────────┼───────────────────────────────────────┤ │ • Certified Ethical Hacker (CEH) │ • Enterprise Routing & Switching │ │ • Web & Network Penetration Testing │ • IPv4 / IPv6 VLSM Subnetting Arch │ │ • Vulnerability Assessment & CTF Ops │ • OSPFv2/v3, EIGRP, BGP, STP, VLANs │ │ • Active Directory & Kerberos Security│ • Packet Forensics (Wireshark PCAPs) │ │ • Linux Hardening & System Auditing │ • Cisco IOS CLI Config & Automation │ ├───────────────────────────────────────┼───────────────────────────────────────┤ │ 💻 FULL-STACK & SYSTEMS │ 📱 HYBRID MOBILE ARCHITECTURE │ ├───────────────────────────────────────┼───────────────────────────────────────┤ │ • Polyglot: C, C++, Python, Java, JS │ • Native Android Container Bridging │ │ • Modern Web: Next.js 16, React 19 │ • Hardware-Accelerated WebViews │ │ • Backend: Node.js, Express, REST APIs│ • Viewport Inset & Gesture Adaptation │ │ • NoSQL Databases: MongoDB, Firestore │ • 0ms Offline-First Cache Pipeline │ └───────────────────────────────────────┴───────────────────────────────────────┘
+
 
 </div>
 
@@ -127,12 +111,15 @@ As the **Founder &amp; Lead Architect of [ByteBreach Academy](https://bytebreach
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahish-nyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b13&title_color=22d3ee&icon_color=38bdf8&text_color=94a3b8" alt="Nyx's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahish-nyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b13&title_color=22d3ee&text_color=94a3b8" alt="Top Languages" height="165" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahish-nyx&theme=tokyonight" alt="GitHub Profile Details" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahish-nyx&theme=tokyonight&hide_border=true&background=1a1b27&ring=22d3ee&fire=10b981&currStreakLabel=22d3ee" alt="GitHub Streak" width="49%" />
+</p>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahish-nyx&theme=tokyonight&hide_border=true&background=070b13&ring=22d3ee&fire=10b981&currStreakLabel=22d3ee" alt="GitHub Streak" height="150" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahish-nyx&theme=tokyonight" alt="Top Languages by Commits" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahish-nyx&theme=tokyonight" alt="Languages by Repositories" width="49%" />
+</p>
 
 </div>
 
